@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Welcome to the IMF Tracker
 permalink: /about
 ---
 
-The main purpose of this blog is to disentangle the wording and storytelling behind macroeconomic and economic development discourses.
+The main purpose of this blog is to disentangle the **wording** and **storytelling** behind macroeconomic and economic development **discourses**.
