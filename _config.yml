@@ -20,7 +20,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'IMF tracker'
+title:		           'Macroeconomic and economic development discourse'
 description:	       '... wording and storytelling tracking'
 author:              'Augusto A. Comisso'
 
